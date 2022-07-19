@@ -1,4 +1,5 @@
- // ejercicio 1
+//comentario de prueba 
+// ejercicio 1
  /* console.log("¡Empezamos con javascript!");
  // ejercicio 3
  console.log("Hola, soy un estudiante Hackademy.");
